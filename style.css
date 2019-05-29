@@ -1,0 +1,49 @@
+body{
+  background-color: beige;
+}
+
+
+h1 {
+  color: FireBrick;
+}
+
+h2 {
+  color: #DB7093;
+
+}
+
+h3 {
+  color: DarkSlateBlue
+}
+
+ol, ul {
+  color: green;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+th,td {border-width: thin;
+    border-style:solid;
+    border-color: LightBlue;
+}
+
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+code{
+  background-color: Azure;
+}
